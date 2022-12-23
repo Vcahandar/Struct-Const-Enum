@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Class Work Practice\Class Work Practice\bin\Debug\net6.0\Class Work Practice.exe
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Class Work Practice\Class Work Practice\bin\Debug\net6.0\Class Work Practice.deps.json
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Class Work Practice\Class Work Practice\bin\Debug\net6.0\Class Work Practice.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Class Work Practice\Class Work Practice\bin\Debug\net6.0\Class Work Practice.dll
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Class Work Practice\Class Work Practice\bin\Debug\net6.0\Class Work Practice.pdb
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Class Work Practice\Class Work Practice\obj\Debug\net6.0\Class Work Practice.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Class Work Practice\Class Work Practice\obj\Debug\net6.0\Class Work Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Class Work Practice\Class Work Practice\obj\Debug\net6.0\Class Work Practice.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Class Work Practice\Class Work Practice\obj\Debug\net6.0\Class Work Practice.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Class Work Practice\Class Work Practice\obj\Debug\net6.0\Class Work Practice.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Class Work Practice\Class Work Practice\obj\Debug\net6.0\Class Work Practice.dll
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Class Work Practice\Class Work Practice\obj\Debug\net6.0\refint\Class Work Practice.dll
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Class Work Practice\Class Work Practice\obj\Debug\net6.0\Class Work Practice.pdb
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Class Work Practice\Class Work Practice\obj\Debug\net6.0\Class Work Practice.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Class Work Practice\Class Work Practice\obj\Debug\net6.0\ref\Class Work Practice.dll

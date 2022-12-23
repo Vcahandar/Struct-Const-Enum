@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home Work Login App Task", "Home Work Login App Task\Home Work Login App Task.csproj", "{68B42C00-8A5D-4F27-94E5-B5FC338651F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{57884C71-8400-42A3-92CA-95332560D117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B42C00-8A5D-4F27-94E5-B5FC338651F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B42C00-8A5D-4F27-94E5-B5FC338651F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B42C00-8A5D-4F27-94E5-B5FC338651F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B42C00-8A5D-4F27-94E5-B5FC338651F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57884C71-8400-42A3-92CA-95332560D117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57884C71-8400-42A3-92CA-95332560D117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57884C71-8400-42A3-92CA-95332560D117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57884C71-8400-42A3-92CA-95332560D117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72BBFD09-8AC6-4EE8-BE82-154524892CB1}
+	EndGlobalSection
+EndGlobal

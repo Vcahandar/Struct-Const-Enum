@@ -1,0 +1,18 @@
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Home Work Login App Task\Home Work Login App Task\bin\Debug\net6.0\Home Work Login App Task.exe
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Home Work Login App Task\Home Work Login App Task\bin\Debug\net6.0\Home Work Login App Task.deps.json
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Home Work Login App Task\Home Work Login App Task\bin\Debug\net6.0\Home Work Login App Task.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Home Work Login App Task\Home Work Login App Task\bin\Debug\net6.0\Home Work Login App Task.dll
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Home Work Login App Task\Home Work Login App Task\bin\Debug\net6.0\Home Work Login App Task.pdb
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Home Work Login App Task\Home Work Login App Task\obj\Debug\net6.0\Home Work Login App Task.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Home Work Login App Task\Home Work Login App Task\obj\Debug\net6.0\Home Work Login App Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Home Work Login App Task\Home Work Login App Task\obj\Debug\net6.0\Home Work Login App Task.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Home Work Login App Task\Home Work Login App Task\obj\Debug\net6.0\Home Work Login App Task.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Home Work Login App Task\Home Work Login App Task\obj\Debug\net6.0\Home Work Login App Task.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Home Work Login App Task\Home Work Login App Task\obj\Debug\net6.0\Home Work Login App Task.dll
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Home Work Login App Task\Home Work Login App Task\obj\Debug\net6.0\refint\Home Work Login App Task.dll
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Home Work Login App Task\Home Work Login App Task\obj\Debug\net6.0\Home Work Login App Task.pdb
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Home Work Login App Task\Home Work Login App Task\obj\Debug\net6.0\Home Work Login App Task.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Home Work Login App Task\Home Work Login App Task\obj\Debug\net6.0\ref\Home Work Login App Task.dll
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Home Work Login App Task\Home Work Login App Task\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Home Work Login App Task\Home Work Login App Task\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Home Work Login App Task\Home Work Login App Task\obj\Debug\net6.0\Home Work Login App Task.csproj.CopyComplete
