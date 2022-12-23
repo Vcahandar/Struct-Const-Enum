@@ -1,0 +1,20 @@
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Costumer Task\Costumer Task\bin\Debug\net6.0\Costumer Task.exe
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Costumer Task\Costumer Task\bin\Debug\net6.0\Costumer Task.deps.json
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Costumer Task\Costumer Task\bin\Debug\net6.0\Costumer Task.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Costumer Task\Costumer Task\bin\Debug\net6.0\Costumer Task.dll
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Costumer Task\Costumer Task\bin\Debug\net6.0\Costumer Task.pdb
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Costumer Task\Costumer Task\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Costumer Task\Costumer Task\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Costumer Task\Costumer Task\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Costumer Task\Costumer Task\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Costumer Task\Costumer Task\obj\Debug\net6.0\Costumer Task.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Costumer Task\Costumer Task\obj\Debug\net6.0\Costumer Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Costumer Task\Costumer Task\obj\Debug\net6.0\Costumer Task.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Costumer Task\Costumer Task\obj\Debug\net6.0\Costumer Task.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Costumer Task\Costumer Task\obj\Debug\net6.0\Costumer Task.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Costumer Task\Costumer Task\obj\Debug\net6.0\Costumer Task.csproj.CopyComplete
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Costumer Task\Costumer Task\obj\Debug\net6.0\Costumer Task.dll
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Costumer Task\Costumer Task\obj\Debug\net6.0\refint\Costumer Task.dll
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Costumer Task\Costumer Task\obj\Debug\net6.0\Costumer Task.pdb
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Costumer Task\Costumer Task\obj\Debug\net6.0\Costumer Task.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Costumer Task\Costumer Task\obj\Debug\net6.0\ref\Costumer Task.dll

@@ -1,0 +1,18 @@
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Task Calculate\Task Calculate\obj\Debug\net6.0\Task Calculate.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Task Calculate\Task Calculate\obj\Debug\net6.0\Task Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Task Calculate\Task Calculate\obj\Debug\net6.0\Task Calculate.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Task Calculate\Task Calculate\obj\Debug\net6.0\Task Calculate.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Task Calculate\Task Calculate\obj\Debug\net6.0\Task Calculate.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Task Calculate\Task Calculate\bin\Debug\net6.0\Task Calculate.exe
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Task Calculate\Task Calculate\bin\Debug\net6.0\Task Calculate.deps.json
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Task Calculate\Task Calculate\bin\Debug\net6.0\Task Calculate.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Task Calculate\Task Calculate\bin\Debug\net6.0\Task Calculate.dll
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Task Calculate\Task Calculate\bin\Debug\net6.0\Task Calculate.pdb
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Task Calculate\Task Calculate\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Task Calculate\Task Calculate\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Task Calculate\Task Calculate\obj\Debug\net6.0\Task Calculate.csproj.CopyComplete
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Task Calculate\Task Calculate\obj\Debug\net6.0\Task Calculate.dll
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Task Calculate\Task Calculate\obj\Debug\net6.0\refint\Task Calculate.dll
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Task Calculate\Task Calculate\obj\Debug\net6.0\Task Calculate.pdb
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Task Calculate\Task Calculate\obj\Debug\net6.0\Task Calculate.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\Struct, Const, Enum\Task Calculate\Task Calculate\obj\Debug\net6.0\ref\Task Calculate.dll

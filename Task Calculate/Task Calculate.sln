@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task Calculate", "Task Calculate\Task Calculate.csproj", "{4334B819-7CFC-4E1A-AFEF-678937C38652}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{568C6E3F-E517-465F-B509-17F064FDEA3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4334B819-7CFC-4E1A-AFEF-678937C38652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4334B819-7CFC-4E1A-AFEF-678937C38652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4334B819-7CFC-4E1A-AFEF-678937C38652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4334B819-7CFC-4E1A-AFEF-678937C38652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568C6E3F-E517-465F-B509-17F064FDEA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568C6E3F-E517-465F-B509-17F064FDEA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568C6E3F-E517-465F-B509-17F064FDEA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568C6E3F-E517-465F-B509-17F064FDEA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7209B94-D814-4DFB-802C-19BD2E38D0B7}
+	EndGlobalSection
+EndGlobal
